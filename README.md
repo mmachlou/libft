@@ -67,7 +67,3 @@ Unit tests for `libft` can be run using the provided test framework (if applicab
 ## Contributing
 
 If you wish to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
